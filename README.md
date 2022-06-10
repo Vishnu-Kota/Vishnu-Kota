@@ -52,3 +52,9 @@
 <br>
 <h2 align="center">Connect with me:</h2>
 
+<div display="flex" justify-content=space-between align="center" >
+    
+[<img src="![image](https://user-images.githubusercontent.com/65905342/173085902-cb542ca4-f84e-4ba4-bb58-bf1a41c20219.png)
+">](https://www.linkedin.com/in/vishnu-kota0710/)
+
+</div>
