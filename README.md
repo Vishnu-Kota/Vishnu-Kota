@@ -14,22 +14,16 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-🔭 I’m currently working on **Docker and Django**
-
-- 📫 How to reach me **kotavishnu2000@gmail.com**
+- 🔭 I’m currently working on **Docker and Django**
 
 - ⚡ Fun fact: I used to be an ITF junior Tennis Player.
+
+- 👀 Things you might not know about me : I`m an astrophile, I love karaoke and I`m a huge fan of Manchester United.
+ 
 
 📚 Computer Science Student at Dayananda Sagar College of Engineering, Bangalore.
 
 
-
-<div display="flex" justify-content=space-between align="center" >
-    
-[<img src="![image](https://user-images.githubusercontent.com/65905342/173085902-cb542ca4-f84e-4ba4-bb58-bf1a41c20219.png)
-">](https://www.linkedin.com/in/vishnu-kota0710/)
-
-</div>
 
 <br>
 <br>
