@@ -63,10 +63,10 @@
     <img align="center" src="https://img.shields.io/badge/Gmail-23282E?style=for-the-badge&logo=gmail&logoColor=52ade9"/>
 </a>
     
-<a href="https://twitter.com/ThatDevGuy0710"?
-   <img align="center" src="https://img.shields.io/badge/Twitter-23282E?style=for-the-badge&logo=gmail&logoColor=52ade9"/>
+<a href="https://twitter.com/ThatDevGuy0710">
+    <img align="center" src="https://img.shields.io/badge/Twitter-23282E?style=for-the-badge&logo=twitter&logoColor=52ade9"/>
 </a>
-
+    
 <div>
 <!-- <a href="https://oliverids.github.io/my-portfolio/">
     <img align="center" src=""/>
