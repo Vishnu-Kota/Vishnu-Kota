@@ -55,7 +55,7 @@
 <div align="center">
 
 
-<a href="linkedin.com/in/vishnu-kota0710/">
+<a href="https://www.linkedin.com/in/vishnu-kota0710/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-23282E?style=for-the-badge&logo=linkedin&logoColor=52ade9">
 </a>
 
