@@ -24,7 +24,10 @@
 
 ## Connect with me here!
 
-
+<div display="flex" justify-content=space-between align="center" >
+    
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/vishnu-kota0710/)
+</div>
 
 <br>
 <br>
@@ -47,8 +50,3 @@
 <br>
 <h2 align="center">Connect with me:</h2>
 
-
-<div display="flex" justify-content=space-between align="center" >
-    
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/vishnu-kota0710/)
-</div>
