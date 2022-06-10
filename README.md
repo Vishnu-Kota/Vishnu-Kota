@@ -28,9 +28,6 @@
     
 [<img src="![image](https://user-images.githubusercontent.com/65905342/173085902-cb542ca4-f84e-4ba4-bb58-bf1a41c20219.png)
 ">](https://www.linkedin.com/in/vishnu-kota0710/)
-[<img src="![image](https://user-images.githubusercontent.com/65905342/173086030-2bf64eb4-7edc-46bb-8f38-1ca498538162.png)
-">](https://twitter.com/ThatDevGuy0710)
- [<img src="![image](![image](https://user-images.githubusercontent.com/65905342/173086619-9ef5243b-1ede-483f-961c-b02f0f2f2f87.png)">](https://my.indeed.com/resume?hl=en&co=IN&from=gnav-resume--myind)
 
 </div>
 
