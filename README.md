@@ -22,7 +22,7 @@
 
 📚 Computer Science Student at Dayananda Sagar College of Engineering, Bangalore.
 
-## Connect with me here!
+
 
 <div display="flex" justify-content=space-between align="center" >
     
@@ -50,11 +50,25 @@
 <p align="center"> <img src="https://img.icons8.com/color/56/000000/java-coffee-cup-logo--v2.png"/><img src="https://img.icons8.com/color/56/000000/python--v2.png"/> <img src="https://img.icons8.com/color/56/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/100/000000/javascript--v2.png"/ height="56px"> <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" height="48px"> <img src="https://img.icons8.com/color/56/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></p>
     </div>
 <br>
-<h2 align="center">Connect with me:</h2>
+<h3 align="center"> Contact</h3>
 
-<div display="flex" justify-content=space-between align="center" >
+<div align="center">
+
+
+<a href="linkedin.com/in/vishnu-kota0710/">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-23282E?style=for-the-badge&logo=linkedin&logoColor=52ade9">
+</a>
+
+<a href="mailto:kotavishnu2000@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-23282E?style=for-the-badge&logo=gmail&logoColor=52ade9"/>
+</a>
     
-[<img src="![image](https://user-images.githubusercontent.com/65905342/173085902-cb542ca4-f84e-4ba4-bb58-bf1a41c20219.png)
-">](https://www.linkedin.com/in/vishnu-kota0710/)
-
+<a href="https://twitter.com/ThatDevGuy0710"?
+   <img align="center" src="https://img.shields.io/badge/Twitter-23282E?style=for-the-badge&logo=gmail&logoColor=52ade9"/>
+</a>
+<div>
+<!-- <a href="https://oliverids.github.io/my-portfolio/">
+    <img align="center" src=""/>
+</a> -->
+</div>
 </div>
