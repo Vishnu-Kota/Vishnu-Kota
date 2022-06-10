@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact: I used to be an ITF junior Tennis Player.
 
-- 👀 Things you might not know about me : I`m an astrophile, I love karaoke and I`m a huge fan of Manchester United.
+- 👀 Things you might not know about me : I'm an astrophile, I love karaoke and I'm a huge fan of Manchester United.
  
 
 📚 Computer Science Student at Dayananda Sagar College of Engineering, Bangalore.
