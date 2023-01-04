@@ -8,9 +8,7 @@
     
 ## Hello 👋, I'm Vishnu!
 
-- 🌱 I’m currently learning **MERN Stack,DSA and Flutter**
-
-- 🤔 I`m looking forward to learn **Devops and Blockchain**
+- 🌱 I’m currently learning **Vue, React and .NET**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
