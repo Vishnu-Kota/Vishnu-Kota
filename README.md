@@ -14,7 +14,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 🔭 I’m currently working on **Docker and Django**
 
 - ⚡ Fun fact: I used to be an ITF junior Tennis Player.
 
